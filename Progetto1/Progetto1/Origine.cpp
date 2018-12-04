@@ -4,6 +4,6 @@ using namespace std;
 void main() {
 	for (int i = 0; i < 10; i++)
 	{
-		cout << "Il numero e': "<<i;
+		cout << "Il valore del numero e': "<<i;
 	}
 }
